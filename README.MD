@@ -93,5 +93,4 @@ public class GeometryApp {
         System.out.println("Периметр треугольника: " + triangle.getPerimeter());
     }
 }
-```
-[Реализация на языке Java](https://github.com/JuliaRyzhova/Software_architecture/tree/main/components_java/src) 
+
